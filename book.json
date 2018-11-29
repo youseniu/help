@@ -1,7 +1,7 @@
 {
     "root": "./",
     "title": "帮助中心",
-    "logo": "./images/logo.png",
+    "logo": "./images/indexlogo.png",
 
     "gitbook": ">= 3.0.0",
 
@@ -15,7 +15,7 @@
 
     "pluginsConfig": {
         "sitemap": {
-            "hostname": "http://help.jikexueyuan.com"
+            "hostname": "http://www.youseniu.com"
         }
     }
 }
