@@ -18,8 +18,6 @@
     "extend": "^3.0.0",
     "fresh-require": "1.0.3",
     "front-matter": "^2.1.0",
-    "g": "^2.0.1",
-    "gh-pages": "^2.0.1",
     "gitbook-asciidoc": "1.2.2",
     "gitbook-markdown": "2.0.1",
     "gitbook-plugin-fontsettings": "2.0.0",
